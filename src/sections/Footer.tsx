@@ -8,7 +8,7 @@ const footerLinks = [
   { name: "How it works", href: "#how-it-works" },
   { name: "Features", href: "#features" },
   { name: "B2-Moves Fits", href: "#fits" },
-  { name: "Security", href: "#security" },
+  { name: "Verify", href: "#verify" },
   { name: "FAQs", href: "#faq" },
 ];
 
